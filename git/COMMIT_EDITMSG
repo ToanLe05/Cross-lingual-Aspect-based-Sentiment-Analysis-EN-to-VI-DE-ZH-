@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]fix this
+
+	url = git@github.com:civi0411/Cross-lingual-ABSA-.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+
+Unnamed repository; edit this file 'description' to name the repository.
+
+ref: refs/heads/main
+
+# pack-refs with: peeled fully-peeled sorted 
+535141df5daee80d3194714afcbed7d8e61d6554 refs/remotes/origin/main
+
+fix this

@@ -1,0 +1,9 @@
+{
+  "macro_f1": 0.6998,
+  "f1_positive": 0.9204,
+  "f1_negative": 0.7892,
+  "f1_neutral": 0.3898,
+  "accuracy": 0.8645,
+  "n_samples": 1210,
+  "actual_n": 50
+}

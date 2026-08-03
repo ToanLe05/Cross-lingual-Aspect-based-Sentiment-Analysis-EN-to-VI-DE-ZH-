@@ -1,0 +1,45 @@
+{"id": "restaurant_zh_test_7_0", "lang": "zh", "domain": "restaurant", "category": "restaurant general", "true": 0, "pred": 2, "text": "– 在西雅图住了 12 年之后雷家被评为我们总是回去的地方。", "is_implicit": false}
+{"id": "restaurant_zh_test_47_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 0, "pred": 1, "text": "– 我已经在这个地方吃饭超过 8 年了，从来没有吃过一顿糟糕的餐。", "is_implicit": false}
+{"id": "restaurant_zh_test_49_0", "lang": "zh", "domain": "restaurant", "category": "food prices", "true": 1, "pred": 2, "text": "价值 100 美元（1 盘）的盘子里摆满了精美的（3 块奇异的鱼）菜肴，但没有一块是可吃的。", "is_implicit": false}
+{"id": "restaurant_zh_test_49_1", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 1, "pred": 0, "text": "价值 100 美元（1 盘）的盘子里摆满了精美的（3 块奇异的鱼）菜肴，但没有一块是可吃的。", "is_implicit": false}
+{"id": "restaurant_zh_test_49_2", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 1, "pred": 2, "text": "价值 100 美元（1 盘）的盘子里摆满了精美的（3 块奇异的鱼）菜肴，但没有一块是可吃的。", "is_implicit": false}
+{"id": "restaurant_zh_test_78_0", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 0, "pred": 1, "text": "音乐 很棒，没有比这更好或更坏的夜晚，酒吧招待员 慷慨地倒酒，轻松的 氛围 会让你精神振奋。", "is_implicit": false}
+{"id": "restaurant_zh_test_78_2", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 0, "pred": 1, "text": "音乐 很棒，没有比这更好或更坏的夜晚，酒吧招待员 慷慨地倒酒，轻松的 氛围 会让你精神振奋。", "is_implicit": false}
+{"id": "restaurant_zh_test_86_0", "lang": "zh", "domain": "restaurant", "category": "food prices", "true": 2, "pred": 1, "text": "– 我决定在 Stack 吃饭，因为他们的演出前晚餐有固定价格。", "is_implicit": false}
+{"id": "restaurant_zh_test_131_0", "lang": "zh", "domain": "restaurant", "category": "location general", "true": 0, "pred": 2, "text": "噢是的... 视图 也很好。", "is_implicit": false}
+{"id": "restaurant_zh_test_137_0", "lang": "zh", "domain": "restaurant", "category": "restaurant general", "true": 2, "pred": 1, "text": "- 不错 。", "is_implicit": true}
+{"id": "restaurant_zh_test_140_0", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 2, "pred": 1, "text": "等了 35 分钟才等到一张 8 人桌，对于这么大一群人来说还算可以。", "is_implicit": true}
+{"id": "restaurant_zh_test_149_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 2, "pred": 1, "text": "从 食物 方面来说，还不错，但是考虑到 餐厅 并不是一个高档的地方，所以价格有点贵。", "is_implicit": false}
+{"id": "restaurant_zh_test_149_2", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 2, "pred": 1, "text": "从 食物 方面来说，还不错，但是考虑到 餐厅 并不是一个高档的地方，所以价格有点贵。", "is_implicit": false}
+{"id": "restaurant_zh_test_194_0", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 0, "pred": 2, "text": "工作人员 很友好，装饰 很有道德且色彩缤纷。", "is_implicit": false}
+{"id": "restaurant_zh_test_194_1", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 0, "pred": 2, "text": "工作人员 很友好，装饰 很有道德且色彩缤纷。", "is_implicit": false}
+{"id": "restaurant_zh_test_194_2", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 0, "pred": 2, "text": "工作人员 很友好，装饰 很有道德且色彩缤纷。", "is_implicit": false}
+{"id": "restaurant_zh_test_199_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 0, "pred": 1, "text": "– 这里的寿司非常好，但是对于 5 美元一份的价格来说，要么鱼片应该更大一些，要么就不应该假装这是一家价格适中的餐厅（即使在纽约）。", "is_implicit": false}
+{"id": "restaurant_zh_test_221_2", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 0, "pred": 2, "text": "– 我很喜欢南瓜馄饨和山羊奶酪面疙瘩（一盘里有 5 个大面疙瘩，而不是 20 个左右的小面疙瘩），我姐姐也很喜欢她菠菜和土豆泥上的菲力牛排。", "is_implicit": false}
+{"id": "restaurant_zh_test_222_0", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 2, "pred": 1, "text": "份量不是最大 份量 但是足够了。", "is_implicit": false}
+{"id": "restaurant_zh_test_234_0", "lang": "zh", "domain": "restaurant", "category": "restaurant general", "true": 0, "pred": 1, "text": "哇 ！ ！ ！ ！ ！ ！ ！ ！", "is_implicit": true}
+{"id": "restaurant_zh_test_254_2", "lang": "zh", "domain": "restaurant", "category": "restaurant prices", "true": 2, "pred": 0, "text": "好 食物 , 很好 服务 , 平均价格 ( 拉斯维加斯大道 )", "is_implicit": true}
+{"id": "restaurant_zh_test_257_0", "lang": "zh", "domain": "restaurant", "category": "restaurant prices", "true": 0, "pred": 1, "text": "加上小费共计 6 美元。", "is_implicit": true}
+{"id": "restaurant_zh_test_269_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 0, "pred": 1, "text": "馕 是我吃过的最好的食物之一，我真的很喜欢 巴达，番茄味不太重。", "is_implicit": false}
+{"id": "restaurant_zh_test_269_1", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 0, "pred": 1, "text": "馕 是我吃过的最好的食物之一，我真的很喜欢 巴达，番茄味不太重。", "is_implicit": false}
+{"id": "restaurant_zh_test_286_0", "lang": "zh", "domain": "restaurant", "category": "restaurant miscellaneous", "true": 2, "pred": 1, "text": "这是一家很小的地方所以如果你在周末（星期四 - 星期日）晚上 8 点之前到达那里，你会发现更容易在寿司吧找到一张桌子或一个座位。", "is_implicit": false}
+{"id": "restaurant_zh_test_311_0", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 0, "pred": 1, "text": "服务 非常棒，咖啡 甚至按照星巴克的标准来看也很不错，食物 非常出色。", "is_implicit": false}
+{"id": "restaurant_zh_test_315_0", "lang": "zh", "domain": "restaurant", "category": "ambience general", "true": 0, "pred": 2, "text": "斯努兹 的摆设非常精美，是那种只要你到那里就会感觉自己更高级的地方；但剥开层层外衣，你就会发现这是一家价格过高的 IHOP，而且菜单高档 菜单。", "is_implicit": false}
+{"id": "restaurant_zh_test_315_1", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 1, "pred": 2, "text": "斯努兹 的摆设非常精美，是那种只要你到那里就会感觉自己更高级的地方；但剥开层层外衣，你就会发现这是一家价格过高的 IHOP，而且菜单高档 菜单。", "is_implicit": false}
+{"id": "restaurant_zh_test_315_2", "lang": "zh", "domain": "restaurant", "category": "restaurant prices", "true": 1, "pred": 2, "text": "斯努兹 的摆设非常精美，是那种只要你到那里就会感觉自己更高级的地方；但剥开层层外衣，你就会发现这是一家价格过高的 IHOP，而且菜单高档 菜单。", "is_implicit": false}
+{"id": "restaurant_zh_test_326_0", "lang": "zh", "domain": "restaurant", "category": "location general", "true": 0, "pred": 2, "text": "– Schooner or Later 的迷人之处位于长滩码头的位置和平凡之处食物遗憾的是无法弥补其极差的品质客户服务。", "is_implicit": false}
+{"id": "restaurant_zh_test_338_0", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 2, "pred": 1, "text": "披萨 不是很大而且 饼皮 很薄... 点餐时请记住这一点。", "is_implicit": false}
+{"id": "restaurant_zh_test_338_1", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 2, "pred": 1, "text": "披萨 不是很大而且 饼皮 很薄... 点餐时请记住这一点。", "is_implicit": false}
+{"id": "restaurant_zh_test_350_0", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 2, "pred": 1, "text": "不过 份量 很大，所以不要点太多。", "is_implicit": false}
+{"id": "restaurant_zh_test_376_1", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 0, "pred": 1, "text": "空间 有限，但是 食物 弥补了这一点。", "is_implicit": false}
+{"id": "restaurant_zh_test_402_0", "lang": "zh", "domain": "restaurant", "category": "restaurant miscellaneous", "true": 0, "pred": 2, "text": "— 我简直不敢相信Murphy's已经存在了 25 多年，太神奇了。", "is_implicit": false}
+{"id": "restaurant_zh_test_417_0", "lang": "zh", "domain": "restaurant", "category": "restaurant general", "true": 0, "pred": 1, "text": "如果您要去看丹尼·甘斯 (Danny Gans) 或者只是在 Mirage 酒店住宿，千万不要错过这个。", "is_implicit": true}
+{"id": "restaurant_zh_test_429_0", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 0, "pred": 1, "text": "煎饼 确实很有创意，但是煎饼套餐（ 3 种不同的 煎饼 样品）中 3-6 英寸 煎饼（其中一个更像是 5 英寸）的价格为 8.50 美元，这确实太贵了。", "is_implicit": false}
+{"id": "restaurant_zh_test_435_0", "lang": "zh", "domain": "restaurant", "category": "food style_options", "true": 1, "pred": 2, "text": "即使提供独特的菜肴，煎饼也应该更大（至少 8 英寸）才能证明花费是合理的。", "is_implicit": false}
+{"id": "restaurant_zh_test_464_1", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 1, "pred": 0, "text": "很好 披萨，很差 服务", "is_implicit": false}
+{"id": "restaurant_zh_test_473_0", "lang": "zh", "domain": "restaurant", "category": "restaurant general", "true": 0, "pred": 1, "text": "说实话，当我看到这些负面评论时我感到很震惊——这个地方太棒了；它没有让我们失望，我们已经在这里吃过 10 多次了。", "is_implicit": false}
+{"id": "restaurant_zh_test_489_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 2, "pred": 1, "text": "食物 还可以，但是 服务 太差了，以致于 食物 在为我聚会中的每个人服务时都是冷的。", "is_implicit": false}
+{"id": "restaurant_zh_test_502_0", "lang": "zh", "domain": "restaurant", "category": "restaurant prices", "true": 2, "pred": 1, "text": "我们只花了大约一个小时就吃完了这顿晚餐，价格也还不错，税后和小费后大约每人 50 美元（大约是平均水平）。", "is_implicit": true}
+{"id": "restaurant_zh_test_511_1", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 0, "pred": 2, "text": "服务员 提出了几项 清酒 建议，非常好。", "is_implicit": false}
+{"id": "restaurant_zh_test_519_0", "lang": "zh", "domain": "restaurant", "category": "food quality", "true": 2, "pred": 1, "text": "如果我愿意在周日排队一个小时去吃一份普通的早午餐食物，那么我会把 Murphy’s 放在首位。", "is_implicit": false}
+{"id": "restaurant_zh_test_523_2", "lang": "zh", "domain": "restaurant", "category": "service general", "true": 1, "pred": 2, "text": "食物 很棒，玛格丽塔酒 也很棒，但是 女服务员 太忙于接待其他更大的聚会客人，而没有更好地照顾我和我的朋友。", "is_implicit": false}
